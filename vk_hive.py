@@ -6,6 +6,7 @@ repositories = [
     "https://github.com/g-truc/glm",
     "https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator",
     "https://github.com/KhronosGroup/glslang",
+    "https://github.com/KhronosGroup/KTX-Software",
     "https://github.com/KhronosGroup/SPIRV-Headers",
     "https://github.com/KhronosGroup/SPIRV-Tools",
     "https://github.com/KhronosGroup/Vulkan-Headers",
