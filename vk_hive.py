@@ -22,9 +22,17 @@ except:
 
 for repository in repositories:
     try:
-        subprocess.run(["git", "clone", "--recursive",
-                        "--single-branch", "--depth=1",
-                        "--shallow-submodules",
-                        repository], cwd="./build")
+        subprocess.run(
+            [
+                "git",
+                "clone",
+                "--recursive",
+                "--single-branch",
+                "--depth=1",
+                "--shallow-submodules",
+                repository,
+            ],
+            cwd="./build",
+        )
     except:
         pass
