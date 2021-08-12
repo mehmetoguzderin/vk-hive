@@ -12,8 +12,10 @@ repositories = [
     "https://github.com/KhronosGroup/SPIRV-Headers",
     "https://github.com/KhronosGroup/SPIRV-Tools",
     "https://github.com/KhronosGroup/Vulkan-Headers",
+    "https://github.com/matoya/libmatoya",
     "https://github.com/nlohmann/json",
     "https://github.com/syoyo/tinygltf",
+    "https://github.com/taskflow/taskflow",
     "https://github.com/tinyobjloader/tinyobjloader",
 ]
 
